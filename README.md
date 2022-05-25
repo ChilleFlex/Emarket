@@ -6,4 +6,4 @@
  #### Frontend : HTML, CSS, Bootstrap
  #### Backend : PHP
  #### Database : MySQL dbms
- 
+ #### Database administration tool: PHPmyAdmin
